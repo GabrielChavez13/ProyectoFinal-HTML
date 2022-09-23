@@ -1,0 +1,25 @@
+ul{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li a{
+    color: white;
+    display: block;
+    padding: 17px 17px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: greenyellow;
+}
+
+.menuActivo{
+    background-color: blue;
+}
